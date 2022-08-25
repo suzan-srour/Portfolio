@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Suzan Srour. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,12 +11,12 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "My-Restaurent",
+        "startDate": "2022",
+        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application give restauret menue to the user , it's on place app , easy and interisting.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/animal-shelter/food.jpg ",
+          "images/portfolio/animal-shelter/pasta.jpg "
         ],
         "url": "",
         "technologies": [
@@ -35,12 +35,12 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Horned Beasts",
+        "startDate": "2022",
+        "description": "Gallery Of Horns. You have horned creatures displaying on the page. When you click on a beast, you increase its favorites and display it as a modal. Today we will be adding one more piece of functionality: filtering by numbers of horns.    ",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/photography/Horn2.jpg ",
+          "images/portfolio/photography/Horned.jpg "
         ],
         "url": "https://github.com",
         "technologies": [
@@ -81,37 +81,29 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
+        "company": "Intern",
         "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "years": "7.2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Python"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+    
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "HTML+CSS",
+          "Python"
         ]
       },
       {
-        "company": "Serros Solutions",
+        "company": "Intern",
         "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "years": "01.2017 - 09.2018",
         "mainTech": [
-          "Angular 7/8"
+          "HTML"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+       "HTML+CSS"
         ]
       }
     ]
